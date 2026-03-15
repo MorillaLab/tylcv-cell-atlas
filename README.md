@@ -217,7 +217,7 @@ If you use PlantAG for annotation, please also cite:
 ```bibtex
 @software{morilla_2026_planttag,
   title   = {{PlantAG}: Plant Tissue Annotation via Graph Topology},
-  author  = {Aberbache, Melissa and Luna, Ana M. and Morilla, Ian},
+  author  = {Aberbache, Melissa and Morilla, Ian},
   year    = {2026},
   url     = {https://github.com/MorillaLab/PlantAG}
 }
