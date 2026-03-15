@@ -10,7 +10,7 @@
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](https://doi.org)
 [![GEO](https://img.shields.io/badge/GEO-pending-blue)](https://ncbi.nlm.nih.gov/geo)
 
-**Luna\*, Aberbache\*, Albendea, Montano, Doblas, Bejarano & Morilla**
+**Luna\*, Aberbache\*, Albendea, Montano, Castillo, Bejarano, Doblas & Morilla**
 <br>
 *IHSM-UMA-CSIC, University of Malaga · Université Sorbonne Paris Nord*
 <br>
