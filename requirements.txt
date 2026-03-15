@@ -1,7 +1,8 @@
 anndata>=0.9
 scanpy==1.9.0
 scvelo==0.3.1
-giotto-tda==0.5.0
+gudhi>=3.7
+persim>=0.3
 torch==1.13.1
 torch-geometric==2.2.0
 torch-scatter
@@ -13,3 +14,4 @@ matplotlib>=3.6
 scikit-learn>=1.1
 leidenalg>=0.9
 gprofiler-official>=1.0
+squidpy>=1.2
