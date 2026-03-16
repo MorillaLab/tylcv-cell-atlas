@@ -203,9 +203,9 @@ directly transferable to other polyphenol-rich crop species.
   title   = {Cell-type-resolved spatial transcriptomics reveals stratified
              viral tropism and emergent defence coordination in
              {TYLCV}-infected tomato leaves},
-  author  = {Luna, Ana M. and Aberbache, Melissa and Albendea, Mar{\'{i}}a
-             and Montano, Jos{\'{e}} A. and Doblas, Ver{\'{o}}nica G.
-             and Bejarano, Eduardo R. and Morilla, Ian},
+  author  = {Luna, Ana M\*. and Aberbache\*, Melissa and Albendea, Mar{\'{i}}a
+             and Montano, Jos{\'{e}} A. and Castillo, Araceli and Bejarano, Eduardo R. and Doblas, Ver{\'{o}}nica G.
+             and Morilla, Ian},
   journal = {in preparation},
   year    = {2026},
   url     = {https://github.com/MorillaLab/tylcv-cell-atlas}
@@ -219,6 +219,7 @@ If you use PlantAG for annotation, please also cite:
   title   = {{PlantAG}: Plant Tissue Annotation via Graph Topology},
   author  = {Aberbache, Melissa and Morilla, Ian},
   year    = {2026},
+  doi     = {https://doi.org/10.5281/zenodo.19048604},
   url     = {https://github.com/MorillaLab/PlantAG}
 }
 ```
