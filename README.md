@@ -67,22 +67,23 @@ TYLCV causes near-total yield losses in susceptible tomato worldwide. Despite de
 
 ---
 
-## Ten annotated cell types
+## Eleven annotated cell types
 
 <div align="center">
 
 | Cell type | Colour | Viral impact (24 dpi) | Key markers |
 |-----------|--------|----------------------|-------------|
-| Parenchyma | 🔴 `#D62728` | **HIGH** d = 0.62 | SlWRKY33, SlPR1b, SlNPR1 |
-| Vein | 🟠 `#E07B39` | **HIGH** d = 0.58 | SlSUC2, SlSWEET11, SlVND7 |
-| Mesophyll | 🔵 `#1F77B4` | Moderate d = 0.41 | SlRBCS, SlLHCB1, SlCAB3 |
-| Xylem | 🟡 `#BCBD22` | Moderate d = 0.38 | SlXCP2, SlIRX3, SlLAC4 |
-| Epidermal | 🟣 `#9467BD` | Moderate d = 0.35 | SlCER6, SlKCS20, SlFDH |
-| Bundle sheath | 🩵 `#17BECF` | Moderate d = 0.33 | SlPDLP1, SlCALS3, SlSEOR1 |
-| Subsidiary | 🟤 `#8C564B` | Low d = 0.18 | SlML1, SlBRX, SlWUS2 |
-| Phloem | 🟢 `#2CA02C` | **Stable** d = 0.15 | SlSUC1, SlAPL, SlPTF1 |
-| Stomatal | 🩷 `#E377C2` | Stable d = 0.12 | SlEPF1, SlFAMA, SlSPCH |
-| Hydathodes | ⚫ `#7F7F7F` | Stable d = 0.09 | SlHAP2, SlNAC55, SlDREB1 |
+| Parenchyma | 🔴 | **HIGH** d = 0.62 | SlWRKY33, SlPR1b, SlNPR1 |
+| Vein | 🟠 | **HIGH** d = 0.58 | SlSUC2, SlSWEET11, SlVND7 |
+| Mesophyll-Ch | 🔵 | Moderate d = 0.41 | SlRBCS, SlLHCB1, SlCAB3 |
+| Xylem | 🟡 | Moderate d = 0.38 | SlXCP2, SlIRX3, SlLAC4 |
+| Guard | 🟣 | Moderate d = 0.35 | SlCER6, SlKCS20, SlFDH |
+| Bundle sheath (Mesophyll) | 🩵 | Moderate d = 0.33 | SlPDLP1, SlCALS3, SlSEOR1 |
+| Subsidiary | 🟤 | Low d = 0.18 | SlML1, SlBRX, SlWUS2 |
+| Phloem | 🟢 | **Stable** d = 0.15 | SlSUC1, SlAPL, SlPTF1 |
+| Stomatal | 🩷 | Stable d = 0.12 | SlEPF1, SlFAMA, SlSPCH |
+| Hydathodes | ⚫ | Stable d = 0.09 | SlHAP2, SlNAC55, SlDREB1 |
+| Vascular bundle | ⚫ | Stable d = 0.09 | SlHAP2, SlNAC55, SlDREB1 |
 
 </div>
 
