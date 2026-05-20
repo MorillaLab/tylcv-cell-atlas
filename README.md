@@ -175,7 +175,7 @@ for _, row in df.iterrows():
 
 ---
 
-## The wet-lab breakthrough
+## The wet-lab fine-tuning
 
 Tomato leaves are hostile to standard Visium protocols. We solved three barriers:
 
