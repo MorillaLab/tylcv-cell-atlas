@@ -1,9 +1,9 @@
-# Spatial transcriptomics of TYLCV-infected tomato leaves
+# 🍅 Spatial transcriptomics of TYLCV-infected tomato leaves
 
 Code to reproduce every result and figure of:
 
 > Luna, A. M., Aberbache, M. et al. *Spatial transcriptomics with PlantAG reveals a tissue-wide response of tomato
-> leaves to Tomato yellow leaf curl virus* (submitted to Plant Biotechnology Journal).
+> leaves to Tomato yellow leaf curl virus* (submitted).
 
 Cell types are imputed with **PlantAG** (Plant Tissue Annotation via Graph Topology), developed in our group and
 maintained separately: [MorillaLab/PlantAG](https://github.com/MorillaLab/PlantAG).
