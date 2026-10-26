@@ -11,7 +11,7 @@ maintained separately: [MorillaLab/PlantAG](https://github.com/MorillaLab/PlantA
 ## Data
 
 - **Visium data** (8 capture areas; tomato cv. Moneymaker, TYLCV-infected and mock, 7 and 24 dpi): GEO [accession to be added].
-- **Result bundles, trained PlantAG model and processed objects:** Zenodo, https://doi.org/10.5281/zenodo.19052209.
+- **Result bundles, trained PlantAG model and processed objects:** Zenodo, https://doi.org/10.5281/zenodo.23664403.
 - **Reference:** tomato genome SL3.1 (GCF_000188115.5) with NCBI *Solanum lycopersicum* Annotation Release 103, plus TYLCV.
 
 ## Workflow
