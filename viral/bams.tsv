@@ -1,0 +1,14 @@
+# section<TAB>path to that section's Space Ranger BAM - one line per section, a TAB between the two columns.
+# Replace /path/to/bams/ with the real folder (or run: bash make_bams_tsv.sh /path/to/folder_with_bams).
+# File names are inferred from your loom files; if your BAMs are Space Ranger folders, use
+# .../<capture area>/outs/possorted_genome_bam.bam instead.
+# 7-dpi infected pair crossed on purpose: A2 file -> infected_7dpi_1, A1 file -> infected_7dpi_2
+# (spot counts 212/290 in your velocity step; confirm in 02_loom_mapping.csv).
+control_7dpi_1	/path/to/bams/possorted_genome_A3-MOCK-7dpi-N0524_bam-001.bam
+control_7dpi_2	/path/to/bams/possorted_genome_A4-MOCK-7dpi-N0525_bam-002.bam
+control_24dpi_1	/path/to/bams/A3-Mock-24dpi-N0036_bam-001.bam
+control_24dpi_2	/path/to/bams/A4-Mock-24dpi-N0037_bam-002.bam
+infected_7dpi_1	/path/to/bams/possorted_genome_A2-TYLCV-IL-7dpi-N0523_bam-003.bam
+infected_7dpi_2	/path/to/bams/possorted_genome_A1-TYLCV-IL-7dpi-N0522_bam-004.bam
+infected_24dpi_1	/path/to/bams/A1-TYLCV-IL-24dpi-N0034_bam-003.bam
+infected_24dpi_2	/path/to/bams/A2-TYLCV-IL-24dpi-N0035_bam-004.bam

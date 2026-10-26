@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Code for: Spatial transcriptomics with PlantAG reveals a tissue-wide response of tomato leaves to Tomato yellow leaf curl virus"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/MorillaLab/tylcv-tomato-visium"
+authors:
+  - family-names: Morilla
+    given-names: Ian
+    affiliation: "IHSM-UMA-CSIC, Málaga, Spain; Université Sorbonne Paris Nord, France"
+  # add the other authors here
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19052209"
+preferred-citation:
+  type: article
+  title: "Spatial transcriptomics with PlantAG reveals a tissue-wide response of tomato leaves to Tomato yellow leaf curl virus"
+  authors:
+    - family-names: Luna
+      given-names: Ana M.
+    - family-names: Aberbache
+      given-names: Melissa
+    # complete the author list as published
+  journal: "Plant Biotechnology Journal"
+  year: 2027
+  status: submitted

@@ -1,0 +1,20 @@
+# Python packages for notebook 02 and the figure scripts (Google Colab provides most of them)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+anndata
+scanpy
+squidpy
+pydeseq2
+scvelo
+loompy
+ripser
+gudhi
+persim
+harmonypy
+pysam
+pymupdf
+Pillow
